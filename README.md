@@ -1,1 +1,1 @@
-# SegLab5-300321304
+This is a repository for the lab 5 (databases)
